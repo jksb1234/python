@@ -1,0 +1,9 @@
+E=[4,2,6,8,4]
+L=[1,2,3,4,5]
+t=int(input("Enter the value"))
+x=0
+k=[]
+for i in range(T):
+    x=x+E[i]-L[i]
+    K.append(x)
+print(max(k))
